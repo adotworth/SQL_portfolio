@@ -15,6 +15,6 @@ https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createdatabase.s
 <br>
 Table Creation
 <br>
-Skills used: CREATE TABLE, ADD CONSTRAINT, DROP TABLE, primary key, foreign key
+Skills used: CREATE TABLE, ADD CONSTRAINT, DROP TABLE, UNIQUE, NULL/NOT NULL, primary key, foreign key, appropriate data types
 <br>
 https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createtables.sql

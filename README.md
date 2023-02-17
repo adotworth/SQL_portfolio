@@ -6,7 +6,7 @@ PostgreSQL projects
 <br>
 This project is broken into multiple steps:
 <br>
-[Database Creation]
+[Database Creation](https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createdatabase.sql)
 <br>
 Skills used: CREATE DATABASE, DROP DATABASE
 <br>

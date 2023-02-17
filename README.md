@@ -6,10 +6,10 @@ PostgreSQL projects
 <br>
 This project is broken into multiple steps:
 <br>
-[Database Creation](https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createdatabase.sql)
+[Database Creation]
 <br>
 Skills used: CREATE DATABASE, DROP DATABASE
 <br>
-[Table Creation](https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createtables.sql)
+[Table Creation]
 <br>
 Skills used: CREATE TABLE, ADD CONSTRAINT, DROP TABLE, primary key, foreign key

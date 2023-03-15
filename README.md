@@ -10,6 +10,6 @@ Database and Table Creation
 <br>
 Skills used: CREATE DATABASE, DROP DATABASE, CREATE TABLE, ADD CONSTRAINT, DROP TABLE, UNIQUE, primary key, foreign key, appropriate data types, NULL/NOT NULL
 <br>
-https://github.com/adotworth/SQL_portfolio/blob/main/slicesquad_createdatabase.sql
+https://github.com/adotworth/SQL_portfolio/blob/1399d021603a623dc47bbd754e456c05c57892b8/tablecreation_greenplate.sql
 <br>
 <br>

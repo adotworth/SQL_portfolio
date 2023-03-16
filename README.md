@@ -1,9 +1,9 @@
-## SQL_portfolio
+# # SQL_portfolio
 PostgreSQL projects
 <br>
 <br>
 # Green Plate
-<br><br>
+<br>
 This project is broken into multiple steps:
 <br><br>
 Database and Table Creation

@@ -10,8 +10,8 @@ Database and Table Creation
 <br>https://github.com/adotworth/SQL_portfolio/blob/main/tablecreation_greenplate.sql
 <br><br>
 Skills used: CREATE DATABASE, DROP DATABASE, CREATE TABLE, ADD CONSTRAINT, DROP TABLE, UNIQUE, primary key, foreign key, appropriate data types, NULL/NOT NULL
-<br>
+<br><br>
 Inerting Menu Items
 <br>https://github.com/adotworth/SQL_portfolio/blob/main/items_greenplate.sql
-<br>
-<br>
+<br><br>
+Skills used: INSERT INTO, VALUES
